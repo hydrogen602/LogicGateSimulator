@@ -1,5 +1,11 @@
 package Core;
 
+/* 
+ * This class is not actually used by the program,
+ * but is instead a place to test blocks of code
+ * to see if they behave as intended.
+*/
+
 //import javax.swing.*;
 import java.awt.*;
 
